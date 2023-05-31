@@ -7,4 +7,4 @@
             Added getmac /v option in System options
             Added powercfg option in System Options
             Changed tab title for all menus
-
+            Added Shortcut Codes
