@@ -1,0 +1,20 @@
+echo 1.0.0.5   - Fixed found typos and text errors
+echo 1.0.0.50  - Updated layout
+echo             Updated broken code
+echo             Added Enter Code option in Home Screen
+echo 1.0.0.60  - Removed Restart into system BIOS option from System Options
+echo             Added ipconfig option in System Options
+echo             Added getmac /v option in System options
+echo             Added powercfg option in System Options
+echo             Changed tab title for all menus
+echo             Added Shortcut Codes
+echo 1.0.0.71  - Changed downloading source to WinGet CMD
+echo             Added Google Chrome Developer option in Download Applications
+echo             Added Google Chrome Canary option in Download Applications
+echo             Added Google Chrome Beta option in Download Applications
+echo             Added Mozilla Firefox ESR option in Download Applications
+echo             Added Mozilla Firefox (Beta) option in Download Applications
+echo             Added Firefox Developer Edition option in Download Applications
+echo             Added Microsoft Edge Developer option in Download Applications
+echo             Added Microsoft Edge Canary option in Download Applications
+echo             Added Microsoft Edge Beta option in Download Applications
