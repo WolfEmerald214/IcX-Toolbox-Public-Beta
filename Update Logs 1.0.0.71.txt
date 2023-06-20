@@ -1,3 +1,5 @@
+cls
+color f
 echo 1.0.0.5   - Fixed found typos and text errors
 echo 1.0.0.50  - Updated layout
 echo             Updated broken code
@@ -18,3 +20,15 @@ echo             Added Firefox Developer Edition option in Download Applications
 echo             Added Microsoft Edge Developer option in Download Applications
 echo             Added Microsoft Edge Canary option in Download Applications
 echo             Added Microsoft Edge Beta option in Download Applications
+echo 1.0.0.80  - Added Intro Screen
+echo             Updated menu screens
+echo             Removed Enter Code
+echo             Added Utilities to Installers
+echo             Added Browsers to Installers
+echo             Added WinRar to Utilities
+echo             Added File Converter to Utilities
+echo             Added Tor Browser to Browsers
+echo             Deleted unnecessary data and programs to save storage space
+echo.
+pause
+goto main
